@@ -17,4 +17,4 @@ Working with Box Stacking:
 
 Problems with Box Stacking: 
 1. Creating the 3 box limitation with toppling.
-2. Creating the toppling method (associated physics and reset)
+2. Creating the toppling method when 4 boxes are stacked instead of 3 (associated physics and reset)
